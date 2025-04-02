@@ -1023,3 +1023,12 @@ body {
     }
 
 }
+.music-container {
+    margin-top: 20px;
+}
+
+audio {
+    width: 300px; /* Adjust the width */
+    filter: invert(1); /* Changes the audio player color */
+    border-radius: 10px;
+}
